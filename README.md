@@ -117,7 +117,7 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 3. Open the Jupyter notebook:
 
    ```bash
-   jupyter notebook Data_Analysis.ipynb
+   jupyter notebook Banking_Analysis.ipynb
    ```
 4. Import the cleaned dataset into your SQL database.
 5. Run SQL queries provided in `queries.sql`.
