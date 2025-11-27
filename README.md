@@ -122,7 +122,7 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 4. Import the cleaned dataset into your SQL database.
 5. Run SQL queries provided in `queries.sql`.
 6. Open the Power BI file (`dashboard.pbix`) to view the dashboard.
-7. Review the final presentation via the Gamma link or PDF.
+7. Review the final presentation via the MS Powerpoint link or PDF.
 
 ---
 
